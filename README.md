@@ -1,4 +1,6 @@
 # Google Chrome Enhanced Portable Version
+Исходный код: https://github.com/shuax/chrome_plus
+
 Google Chrome Enhanced, упакованный с оригинальным интегрированным патчем Shuax portable Dll hijacking patch, Chrome++ enhanced software, особенности включают сохранение данных для переносимости, улучшенные манипуляции с вкладками и панелью вкладок, удаление предупреждений режима разработчика и предупреждений об ошибках обновления и т.д.
 
 ![image](https://user-images.githubusercontent.com/87380272/155224209-94e3ef95-e743-47a7-bb81-0278333d352a.png)
