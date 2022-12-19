@@ -1,6 +1,8 @@
 # Google Chrome Enhanced Portable Version
 Исходный код: https://github.com/shuax/chrome_plus
 <br>
+Зеркало: https://github.com/icy37785/chrome_plus
+<br>
 Chromium: https://github.com/Hibbiki/chromium-win32
 <br>
 Chrome: https://github.com/Soul-Master/ChromePortableDownloader
