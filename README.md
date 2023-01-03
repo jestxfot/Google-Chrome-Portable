@@ -1,9 +1,11 @@
 # Google Chrome Enhanced Portable Version
 Original author: https://github.com/shuax/chrome_plus
 <br>
-Mirror: https://github.com/icy37785/chrome_plus
 <br>
-Mirror 2: https://github.com/Ryanjiena/chrome_plus
+Mirror: https://github.com/yumaoss/chrome_plus
+Mirror 2: https://github.com/icy37785/chrome_plus
+<br>
+Mirror 3: https://github.com/Ryanjiena/chrome_plus
 <br>
 Chromium: https://github.com/Hibbiki/chromium-win32
 <br>
