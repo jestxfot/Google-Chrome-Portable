@@ -3,6 +3,8 @@ Original author: https://github.com/shuax/chrome_plus
 <br>
 Mirror: https://github.com/icy37785/chrome_plus
 <br>
+Mirror 2: https://github.com/Ryanjiena/chrome_plus
+<br>
 Chromium: https://github.com/Hibbiki/chromium-win32
 <br>
 Chrome: https://github.com/Soul-Master/ChromePortableDownloader
