@@ -40,10 +40,13 @@ Google Chrome Enhanced, упакованный с оригинальным ин�
 - Используется официальная версия без службы компонента обновления, удалите Chromium Multilanguage Pak
 - Самораспаковывающийся процесс установки и выпуска, удаление записей задач расписания обновления системы Chrome и остаточных данных
 
-Основано на: https://github.com/shuax/GreenChrome
-
-Оригинал Форум https://www.423down.com/791.html
-
-Бинарные файлы здесь: https://pan.lanzoui.com/b0f1g80ne
-
-Запас https://www.jb51.net/softs/722818.html
+## Links
+Based to: https://github.com/shuax/GreenChrome
+<br>
+Original Forum: https://www.423down.com/791.html
+<br>
+Binary Files: https://pan.lanzoui.com/b0f1g80ne
+<br>
+Mirror: https://www.jb51.net/softs/722818.html
+<br>
+Russian Forum: http://forum.ru-board.com/topic.cgi?forum=5&topic=51073#1
