@@ -1,3 +1,6 @@
+### ⚠ $\color{YellowOrange}{\textsf{Warning!}}$
+> Начиная с Chromium 118.0.5978.0 браузер поменял пути, и dll временно не работает! Ждём багофикса.
+
 ### Google Chrome Enhanced Portable Version
 Original author: https://github.com/shuax/chrome_plus
 <br>
@@ -15,9 +18,6 @@ AutoUpdate: https://github.com/hezhizheng/shuax-chrome-upgrade
 Chromium: https://github.com/Hibbiki/chromium-win32
 <br>
 Chrome: https://github.com/Soul-Master/ChromePortableDownloader
-
-### ⚠ $\color{YellowOrange}{\textsf{Warning!}}$
-> Начиная с Chromium 118.0.5978.0 браузер поменял пути, и dll временно не работает! Ждём багофикса.
 
 Google Chrome Enhanced, упакованный с оригинальным интегрированным патчем Shuax portable Dll hijacking patch, Chrome++ enhanced software, особенности включают сохранение данных для переносимости, улучшенные манипуляции с вкладками и панелью вкладок, удаление предупреждений режима разработчика и предупреждений об ошибках обновления и т.д.
 
