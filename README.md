@@ -8,6 +8,8 @@ Mirror 2: https://github.com/icy37785/chrome_plus
 <br>
 Mirror 3: https://github.com/Ryanjiena/chrome_plus
 <br>
+Vivaldi: https://github.com/czyt/vivaldi_plus
+<br>
 AutoUpdate: https://github.com/hezhizheng/shuax-chrome-upgrade
 <br>
 Chromium: https://github.com/Hibbiki/chromium-win32
