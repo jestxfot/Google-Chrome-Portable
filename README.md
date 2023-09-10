@@ -14,6 +14,9 @@ Chromium: https://github.com/Hibbiki/chromium-win32
 <br>
 Chrome: https://github.com/Soul-Master/ChromePortableDownloader
 
+### ⚠ $\color{YellowOrange}{\textsf{Warning!}}$
+> Начиная с Chromium 118.0.5978.0 браузер поменял пути, и dll временно не работает! Ждём багофикса.
+
 Google Chrome Enhanced, упакованный с оригинальным интегрированным патчем Shuax portable Dll hijacking patch, Chrome++ enhanced software, особенности включают сохранение данных для переносимости, улучшенные манипуляции с вкладками и панелью вкладок, удаление предупреждений режима разработчика и предупреждений об ошибках обновления и т.д.
 
 ![image](https://user-images.githubusercontent.com/87380272/155224209-94e3ef95-e743-47a7-bb81-0278333d352a.png)
