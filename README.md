@@ -1,4 +1,4 @@
-# Google Chrome Enhanced Portable Version
+### Google Chrome Enhanced Portable Version
 Original author: https://github.com/shuax/chrome_plus
 <br>
 <br>
