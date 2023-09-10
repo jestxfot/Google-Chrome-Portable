@@ -1,5 +1,5 @@
 ### ⚠ $\color{YellowOrange}{\textsf{Warning!}}$
-> Начиная с Chromium 118.0.5978.0 браузер поменял пути, и dll временно не работает! Ждём багофикса.
+> Начиная с Chromium 118.0.5978.0 браузер поменял пути, и dll временно не работает! Вы можете нам помочь, это связано с флагом `-disable-features=RendererCodeIntegrity` 
 
 ### Google Chrome Enhanced Portable Version
 Original author: https://github.com/shuax/chrome_plus
