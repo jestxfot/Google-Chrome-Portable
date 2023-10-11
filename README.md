@@ -1,6 +1,6 @@
-### ⚠ $\color{YellowOrange}{\textsf{Warning!}}$
+### ⚠ Warning!
 > Начиная с Chromium 118.0.5978.0 браузер поменял пути, и dll рабоет по другому, это связано с флагом `-disable-features=RendererCodeIntegrity`.
-> Вы можете скачать новую DLL по ссылке: 
+> Вы можете скачать новую DLL по ссылке: https://github.com/Bush2021/chrome_plus
 
 ### Google Chrome Enhanced Portable Version
 Original author: https://github.com/shuax/chrome_plus
